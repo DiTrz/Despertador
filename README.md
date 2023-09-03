@@ -1,7 +1,7 @@
 
 # Despertador
 
-Um projeto simples no qual é declarado um horário que será o despertador e um horário atual e então é checado se está adiantado, na hora de despertar ou atrasado.
+Um projeto simples no qual é declarado um horário que será o despertador e um horário atual, então é checado se está adiantado, na hora de despertar ou atrasado.
 
 
 
